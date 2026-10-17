@@ -1,4 +1,4 @@
-# Group 2
+ Group 2
 
 Members of Group2 of Septa Fullstack AI Training 
 
@@ -8,4 +8,6 @@ https://about-mee-five.vercel.app/
 2. Afolayan Tim
 https://about-me-lime-ten.vercel.app/
 
+3. Fadayomi Emmanuel
+https://about-me-taupe-iota.vercel.app/
 
