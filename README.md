@@ -11,3 +11,6 @@ https://about-me-lime-ten.vercel.app/
 3. Fadayomi Emmanuel
 https://about-me-taupe-iota.vercel.app/
 
+4. Akinola Mayowa
+https://about-me-seven-liard.vercel.app/
+
